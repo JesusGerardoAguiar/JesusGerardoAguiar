@@ -19,6 +19,7 @@ I'm a fullstack developer and software engineer student from Uruguay
 <img align="left" alt="fauna" src="https://img.shields.io/badge/faunadb%20-%23232F3E?logo=faunadb&logoColor=white&style=for-the-badge" />
 <img align="left" alt="heroku" src="https://img.shields.io/badge/heroku%20-%23232F3E?logo=heroku&logoColor=white&style=for-the-badge" />
 <img align="left" style="margin-top:10px;" alt="netlify" src="https://img.shields.io/badge/netlify%20-%23232F3E?logo=netlify&logoColor=white&style=for-the-badge" />
+<br>
 <img align="left" style="margin-top:10px;" alt="docker" src="https://img.shields.io/badge/docker%20-%23232F3E?logo=docker&logoColor=white&style=for-the-badge" />
 <img align="left" style="margin-top:10px;" alt="html" src="https://img.shields.io/badge/html%20-%23232F3E?logo=html&logoColor=white&style=for-the-badge" />
 <img align="left" style="margin-top:10px;" alt="css" src="https://img.shields.io/badge/css%20-%23232F3E?logo=css&logoColor=white&style=for-the-badge" />
