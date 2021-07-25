@@ -1,7 +1,7 @@
 ### Hello World 👋
 I'm a fullstack developer and software engineer student from Uruguay
 
-- 🔭 Working on multiple frontend and backend project using React and Nodejs with my own company Lograf Design, We provide ecommerce services with a our own product to small business, we named it <b>Lograf Ecommerce</b>
+- 🔭 Working on multiple frontend and backend project using React and Nodejs with at my own company Lograf Design, We provide web and graphic design solutions, our main product is ecommerce system named <b>Lograf Ecommerce</b> that we offer to small business that want their own web ecommerce solution
 - 🌱 Learning AWS architectures designs and best practices in depth
 <br>
 
