@@ -21,7 +21,6 @@ Currently leading engineering teams at **Outliant**, a global digital product ag
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aguiarjesus/)
-[<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-%231877F2.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/lograf.design/?hl=en)
 [<img align="left" alt="portofolio" src="https://img.shields.io/badge/portofolio-%231877F2.svg?&style=for-the-badge&logo=portofolio&logoColor=white" />](https://jeezuzdev.vercel.app/)
 <br>
 <br>
