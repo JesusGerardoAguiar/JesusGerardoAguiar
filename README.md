@@ -1,11 +1,22 @@
-### Hello World 👋
-I'm Jesus, a fullstack/frontend developer with over 4 years of experience. I have a studied software engineer from ORT University and expertise in React, Next, Redux, React Query, Web3, GraphQL, SSR, CDN, and web-caching, Express, NoSQL databases.
+### Hi there 👋 I'm Jesús
 
-- 🔭 Working on multiple frontend and backend project using React and Nodejs with at my own company Lograf Design, We created an e-commerce system and marketed it to small businesses without an online store. More than 30 clients are now using my system, with more than 1,000 simultaneous clients registered across all of our e-commerce sites. This project honed my communication and negotiation skills while demonstrating my ability to create scalable and efficient solutions.
-- 📚 In my most recent project, I created Alexandria, a decentralized e-learning platform. The platform allows creators to upload their courses to a permanent storage solution powered by Arweave. Once a user purchases a course, they will always have access to it using their wallet. This project showcases my passion for React and web technologies in general.
-- 🌱 Learning AWS architectures designs and best practices in depth
-<br>
-Currently, I'm working with Serraform designing and developing a product for Decentraland. The product allows users to rent a m3u8 link with cryptocurrency in order to stream live streams, VOD, and Twitch/YouTube into Decentraland. This project has further expanded my skills in React and provided me with valuable experience in designing and developing new products.
+Engineering Manager by day, still writing code by night.
+
+Currently leading engineering teams at **Outliant**, a global digital product agency working with enterprise clients including Orangetheory Fitness (Purpose Brands). I manage delivery across multiple concurrent client projects while staying hands-on with the technical side.
+
+**What I work with:**
+- 💻 TypeScript · React · Node.js · Next.js · Webflow
+- ☁️ AWS · Docker · MongoDB · CI/CD
+- 🛠️ Engineering SOPs · Code Review Standards · Agile / Scrum
+
+**What I focus on as an EM:**
+- Building and mentoring high-performing engineering teams
+- Setting technical standards that scale
+- Bridging product strategy with hands-on execution
+
+📍 Montevideo, Uruguay — Open to Remote  
+📩 aguiarf.j16@gmail.com  
+💼 [linkedin.com/in/aguiarjesus](https://linkedin.com/in/aguiarjesus)
 <br>
 
 ## Connect with me
